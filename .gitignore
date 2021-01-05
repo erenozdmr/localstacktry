@@ -1,0 +1,3 @@
+docker/localstack-init
+src/composer/vendor
+src/composer/composer.lock
